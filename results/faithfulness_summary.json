@@ -1,0 +1,50 @@
+{
+  "A1": {
+    "n_rows": 122,
+    "n_scored": 111,
+    "n_failed": 11,
+    "mean_faithfulness": 0.6154225654225655
+  },
+  "A2": {
+    "n_rows": 122,
+    "n_scored": 106,
+    "n_failed": 16,
+    "mean_faithfulness": 0.6031053459119496
+  },
+  "A3": {
+    "n_rows": 122,
+    "n_scored": 105,
+    "n_failed": 17,
+    "mean_faithfulness": 0.6941723356009071
+  },
+  "A4": {
+    "n_rows": 122,
+    "n_scored": 107,
+    "n_failed": 15,
+    "mean_faithfulness": 0.7045171339563863
+  },
+  "A5": {
+    "n_rows": 122,
+    "n_scored": 114,
+    "n_failed": 8,
+    "mean_faithfulness": 0.7040204678362573
+  },
+  "A5a": {
+    "n_rows": 122,
+    "n_scored": 110,
+    "n_failed": 12,
+    "mean_faithfulness": 0.7266666666666667
+  },
+  "A5b": {
+    "n_rows": 122,
+    "n_scored": 115,
+    "n_failed": 7,
+    "mean_faithfulness": 0.6909420289855073
+  },
+  "A5c": {
+    "n_rows": 122,
+    "n_scored": 113,
+    "n_failed": 9,
+    "mean_faithfulness": 0.7073324905183312
+  }
+}

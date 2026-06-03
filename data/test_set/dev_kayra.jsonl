@@ -1,0 +1,542 @@
+[
+  {
+    "id": "q141",
+    "question": "Bizim kayınbirader Vergi Mahkemesi'nde katip olarak çalışıyor. Ben de yeni bir şahıs şirketi kurdum, muhasebe işlerinden de pek anlamıyorum. \"Mali müşavire boşuna para vermeyeyim, bizimki akşamları çay içerken benim vergi hesaplarına bir el atsın, yabancı değil sonuçta, para da almaz benden\" diyorum. Kayınbiraderimin bu işi bedavaya yapmasında kanunen bir sakınca var mı?",
+    "answer": "Evet, bu durum kanuna aykırıdır. Vergi Usul Kanunu’nun 6. maddesine göre; vergi mahkemelerinde görevli olanların, mükelleflerin vergi kanunlarının uygulanmasıyla ilgili hesap, yazı ve diğer özel işlerini —ücret almasalar dahi— yapmaları kesinlikle yasaklanmıştır. Yani bu işin \"akrabalık hatırına\" veya \"ücretsiz\" yapılıyor olması yasağı ortadan kaldırmaz. [VUK m.6]",
+    "gold_doc_ids": [
+      "VUK_m6"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "6"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Vergi mahkemesi personeli yasakları"
+  },
+  {
+    "id": "q142",
+    "question": "Maliye’den denetmenler bizim köye gelmiş, mısır kurutma tesisiyle ilgili bir inceleme yapıyorlar. Köy muhtarına gidip \"Bize bu işletmenin geçmişe dönük kayıtları ve yer tespiti için rehberlik lazım, bize bir yardımcı olun\" demişler. Muhtar da \"Kardeşim benim dünya kadar işim var, gidin başınızın çaresine bakın, ben sizin sekreteriniz miyim?\" diye bunları terslemiş. Muhtarın bu şekilde denetim ekibini geri çevirme hakkı var mı?",
+    "answer": "Hayır, muhtarın böyle bir hakkı yoktur. Vergi Usul Kanunu’nun 7. maddesine göre; köy muhtarları, belediye başkanları ve emniyet amirleri gibi kamu görevlileri, vergi kanunlarının uygulanması sırasında görevli memurlara ellerindeki bütün imkanlarla kolaylık göstermek ve yardımda bulunmakla yükümlüdürler. Yani muhtarın bu yardımı sağlaması kanuni bir mecburiyettir. [VUK m.7]",
+    "gold_doc_ids": [
+      "VUK_m7"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "7"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Kamu görevlilerinin yardım mecburiyeti"
+  },
+  {
+    "id": "q143",
+    "question": "Bizim bir tanıdık vergi mükellefi, geçen hafta bir soruşturma yüzünden aniden tutuklanıp cezaevine gönderildi. Adam içeride olduğu için beyannamesini veremedi, haliyle süresi de geçmek üzere. Bu \"içeri düşme\" durumu, vergi dairesine karşı geçerli bir mazeret sayılır mı yoksa cezayı yer mi?",
+    "answer": "Evet, bu durum geçerli bir mazerettir. Vergi Usul Kanunu'nun 13. maddesine göre; vergi ödevlerinin yerine getirilmesine engel olacak derecede ağır kaza, ağır hastalık ve tutukluluk halleri \"mücbir sebep\" sayılır. Dolayısıyla tutukluluk hali devam ettiği sürece vergi ödevleri ertelenmiş olur. [VUK m.13]",
+    "gold_doc_ids": [
+      "VUK_m13"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "13"
+      ]
+    ],
+    "difficulty": "edge",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Mücbir sebep olarak tutukluluk"
+  },
+  {
+    "id": "q144",
+    "question": "Eve bir vergi ihbarnamesi geldi; borcum, ismim falan her şey yazıyor ama her yerini inceledim, bu karara karşı mahkemeye gitmek için ne kadar sürem olduğu hiçbir yerinde yazmıyor. Vergi dairesi dava açma süresini kağıda yazmayı unuttuğu için bu belgeyi geçersiz saydırıp iptal ettirebilir miyim?",
+    "answer": "Evet, bu belgeyi hükümsüz kıldırabilirsiniz. Vergi Usul Kanunu’nun 108. maddesine göre; tebliğ edilen belgelerdeki basit şekil hataları belgeyi bozmasa da, vergi ihbarnamelerinde dava açma süresinin hiç yazılmamış olması o belgeyi hukuken geçersiz (hükümsüz) kılar. [VUK m.108]",
+    "gold_doc_ids": [
+      "VUK_m108"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "108"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Vergi ihbarnamesinde şekil eksikliği"
+  },
+  {
+    "id": "q145",
+    "question": "Hakkımda yapılan asılsız bir ihbar yüzünden dükkanımda ve üzerimde vergi araması yapıldı ama tertemiz çıktım, hiçbir usulsüzlük bulunmadı. Beni kimin ispiyonladığını öğrenip ona dava açmak istiyorum. Vergi dairesine gidip \"Beni kim şikayet etti?\" desem, muhbirin ismini bana vermek zorundalar mı?",
+    "answer": "Evet, bildirmek zorundadırlar. Vergi Usul Kanunu’nun 142. maddesine göre, ihbar üzerine yapılan bir aramada ihbar sabit olmazsa (yani asılsız çıkarsa), nezdinde arama yapılan kimse muhbirin adının bildirilmesini isteyebilir. Bu takdirde vergi dairesi muhbirin ismini bildirmeye mecburdur. [VUK m.142]",
+    "gold_doc_ids": [
+      "VUK_m142"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "142"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Asılsız ihbarda muhbirin isminin açıklanması"
+  },
+  {
+    "id": "q146",
+    "question": "Ben yeni bir diş kliniği açtım (serbest meslek). Bir arkadaşım da geçen ay bir Limited Şirket kurdu. Arkadaşım bana, \"Ben vergi dairesine gidip hiç uğraşmadım, ticaret siciline kayıt olunca onlar benim evrakları otomatik vergi dairesine göndermiş, bildirimim yapılmış sayıldı\" dedi. Ben de aynı şekilde hiçbir yere gitmeden bildirimimin otomatik yapılacağını varsayabilir miyim, yoksa bizzat vergi dairesine gitmem şart mı?",
+    "answer": "Hayır, sizin bizzat bildirim yapmanız şarttır. Vergi Usul Kanunu’nun 153. maddesine göre, ticaret sicili memurluklarının belgeleri vergi dairesine ileterek bildirimi \"yapılmış saydığı\" kolaylık sadece kurumlar vergisi mükellefleri (şirketler) için geçerlidir. Siz bir serbest meslek erbabı olduğunuz için işe başlama keyfiyetini bizzat vergi dairesine bildirmekle yükümlüsünüz. [VUK m.153]",
+    "gold_doc_ids": [
+      "VUK_m153"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "153"
+      ]
+    ],
+    "difficulty": "multi_hop",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Serbest meslek vs kurumlar vergisi bildirim farkı"
+  },
+  {
+    "id": "q147",
+    "question": "Yıllardır dükkan işleten bir esnafım ve vergi mükellefiyim. Ancak yaşım ve iş hacmim gereği artık \"vergiden muaf esnaf\" kapsamına girdiğimi öğrendim. Artık vergi ödemeyecek olmama rağmen, bu muaflık durumunu vergi dairesine gidip ayrıca bildirmem gerekiyor mu, yoksa sistem beni otomatik olarak muafiyete geçirir mi?",
+    "answer": "Evet, bildirmek zorundasınız. Vergi Usul Kanunu’nun 158. maddesine göre, işe başladığını bildiren mükelleflerden; yeni bir vergiye tabi olmayı, mükellefiyet şeklinde değişikliği veya \"mükellefiyetten muaflığa geçmeyi\" gerektirecek bir durum yaşayanlar, bu değişikliği vergi dairesine bildirmeye mecburdurlar. [VUK m.158]",
+    "gold_doc_ids": [
+      "VUK_m158"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "158"
+      ]
+    ],
+    "difficulty": "edge",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Mükellefiyetten muaflığa geçiş bildirimi"
+  },
+  {
+    "id": "q148",
+    "question": "Şahıs şirketimin defterine bir rakamı yanlış girmişim. Defterin düzeni bozulmasın, çok karalama olmasın diye yanlış yazdığım rakamı daksille (düzelticiyle) güzelce kapatıp üzerine doğrusunu yazdım. Vergi denetimi sırasında müfettiş bu daksilli düzeltmeyi bir sorun olarak görür mü?",
+    "answer": "Evet, görür. Vergi Usul Kanunu’nun 217. maddesine göre, defterlere geçirilen bir kaydı silmek veya okunamaz hale getirmek yasaktır. Yanlış bir rakam yazıldığında düzeltme; ancak yanlışın üstü okunacak şekilde çizilip, yanına veya üstüne doğrusu yazılarak yapılabilir. Daksil kullanmak kaydı okunamaz hale getirdiği için kanuna aykırıdır. [VUK m.217]",
+    "gold_doc_ids": [
+      "VUK_m217"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "217"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Defter kayıtlarında daksil kullanımı yasağı"
+  },
+  {
+    "id": "q149",
+    "question": "Benim geçen seneden kalma yevmiye defterimde daha dünya kadar boş sayfa var. Yeni defter alıp masraf yapmayayım, bu seneki kayıtlarımı da aynı defterin boş sayfalarına yazmaya devam edeyim diyorum. Bunu yapabilmem için kanunen uymam gereken bir süre veya yapmam gereken bir işlem var mı?",
+    "answer": "Evet, vardır. Vergi Usul Kanunu’nun 222. maddesine göre, defterlerini ertesi yılda da kullanmak isteyenler, Ocak ayı içinde (özel hesap dönemi olanlar ise dönemin ilk ayı içinde) tasdiki yeniletmek zorundadırlar. Yani defterde yer olsa bile Ocak ayı bitmeden bu işlemi yaptırmazsanız o defteri kullanmaya devam edemezsiniz. [VUK m.222]",
+    "gold_doc_ids": [
+      "VUK_m222"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "222"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Defter tasdik yenileme süresi"
+  },
+  {
+    "id": "q150",
+    "question": "Bizim şirket müteharrik yapraklı (sürekli form) yevmiye defteri kullanıyor. Yıl içinde kullanırız diye onaylattığımız yapraklar Kasım ayında bitti. Yeni yaprakları tasdik ettirmeye götüreceğiz ama noter sayfa başına bir onay ücreti (harç) talep ediyor. Vergi Usul Kanunu'nun 225. maddesine göre, 2026 yılı için müteharrik yapraklı defterlerin her bir sayfası için ödenmesi gereken tasdik harcı tutarı tam olarak ne kadardır?",
+    "answer": "Verilen kaynaklarda, defter yapraklarının tasdiki sırasında ödenecek harç miktarı veya sayfa başı onay ücretine dair herhangi bir bilgi bulunmamaktadır. İlgili maddede sadece ciltli ve müteharrik yapraklı defterlerin nasıl tasdik edileceği, mühürleme işlemi ve sayfa numaralarının takibiyle ilgili usuller belirtilmiştir. [VUK m.225]",
+    "gold_doc_ids": [
+      "VUK_m225"
+    ],
+    "gold_citations": [
+      [
+        "VUK",
+        "225"
+      ]
+    ],
+    "difficulty": "no_answer",
+    "category": "vergi",
+    "author": "sistem",
+    "notes": "Kaynakta bulunmayan oran/harç bilgisi"
+  },
+  {
+    "id": "q151",
+    "question": "Yeni bir devlet memuru olarak atanma, eğitim ve görevde yükselme süreçlerimin hangi kanun çerçevesinde yürütüldüğünü merak ediyorum. 657 sayılı Kanun (DMK) sadece bizim maaş ve ödeneklerimizi mi düzenler, yoksa bu saydığım özlük işlerini de kapsar mı?",
+    "answer": "DMK, devlet memurlarının sadece aylık ve ödeneklerini değil; hizmet şartlarını, niteliklerini, atanma, yetiştirilme, ilerleme ve yükselmelerini, her türlü hak ve sorumlulukları ile diğer tüm özlük işlerini düzenleyen temel kanundur. [DMK m.2]",
+    "gold_doc_ids": [
+      "DMK_m2"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "2"
+      ]
+    ],
+    "difficulty": "lookup",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "DMK'nın kapsamı"
+  },
+  {
+    "id": "q152",
+    "question": "Ben devlette aday memur olarak göreve başladım. Kurumdaki arkadaşlar \"yemin töreni\" yapılacağından bahsediyorlar. Ben henüz aday memur olduğum için bu törene hemen katılmak ve yemin belgesini imzalamak zorunda mıyım, yoksa bunun belirli bir zamanı mı var?",
+    "answer": "Hayır, hemen yemin etmeniz gerekmez. Devlet Memurları Kanunu'nun 6. maddesine göre, yemin merasimi ancak \"Asli Devlet Memurluğuna\" atandıktan sonra yapılır. Asaletiniz tasdik edildikten sonra en geç bir ay içinde kurumunuzun düzenleyeceği merasimle amirlerin huzurunda yemin etmeniz ve imzaladığınız yemin belgesinin özlük dosyanıza konulması gerekir. [DMK m.6]",
+    "gold_doc_ids": [
+      "DMK_m6"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "6"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Aday memur yemin töreni süreci"
+  },
+  {
+    "id": "q153",
+    "question": "Bir bakanlıkta çalışan uzman yardımcısı, 6 aylığına dil eğitimi için İngiltere’ye gönderilmiş. Bu kişi mesai saatleri dışında katıldığı bir sosyal etkinlikte, aşırı alkol alıp çevresindekilere hakaret ederek yerel polislik olmuş ve olay yerel basına \"Türk memur rezaleti\" diye yansımış. Bu memur, \"Olay Türkiye dışında ve görev saatlerimin haricinde yaşandı, bu yüzden kurumum bana disiplin yönünden dokunamaz\" diye bir savunma yapabilir mi?",
+    "answer": "Hayır, yapamaz. Devlet Memurları Kanunu'nun 9. maddesine göre; yetişme, inceleme veya araştırma gibi nedenlerle yabancı memleketlerde bulunan memurlar, Devlet itibarını veya görev haysiyetini zedeleyici fiil ve davranışlarda bulunamazlar. Dolayısıyla memurun yurt dışında olması veya olayın mesai saati dışında gerçekleşmesi, devletin itibarını zedeleyen bu davranışın sorumluluğunu ortadan kaldırmaz. [DMK m.9]",
+    "gold_doc_ids": [
+      "DMK_m9"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "9"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Yurtdışı temsil ve mesai dışı davranış"
+  },
+  {
+    "id": "q154",
+    "question": "\"Kardeşim bu yıl endüstri meslek lisesinden teknisyenlik bölümünü bitirerek mezun oldu. Kendisi şu an 16 yaşında ve bir kamu kurumunun açtığı teknisyen kadrosuna başvurmak istiyor. Ancak çevremizdeki herkes 'Daha 18'ini bile doldurmadın, devlet seni hayatta memur yapmaz' diyor. Kardeşimin bu yaşta memuriyete atanabilmesinin kanuni bir yolu var mıdır?\"",
+    "answer": "\"Evet, mümkündür. Devlet Memurları Kanunu'nun 40. maddesine göre; genel kural 18 yaşını tamamlamış olmak olsa da, bir meslek veya sanat okulunu bitirenler en az 15 yaşını doldurmuş olmak ve Türk Medeni Kanunu uyarınca mahkemeden 'kazai rüşt' (erginlik) kararı almak şartıyla devlet memurluğuna atanabilirler. Dolayısıyla kardeşiniz 15 yaşını doldurduğu ve meslek lisesi mezunu olduğu için mahkeme kararını alarak memur olabilir.\" [DMK m.40]",
+    "gold_doc_ids": [
+      "DMK_m40"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "40"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Kazai rüşt ile memur atanma yaşı istisnası"
+  },
+  {
+    "id": "q155",
+    "question": "Bir devlet memuruna, işlediği disiplin suçu nedeniyle disiplin amiri tarafından \"aylıktan kesme\" cezası verilmiştir. 657 sayılı Kanun'un 126. maddesine göre, bu memurun brüt aylığından yapılacak olan kesintinin oranı (örneğin 1/30 veya 1/8 gibi) tam olarak ne kadardır?",
+    "answer": "Verilen kaynaklarda, aylıktan kesme cezasının hangi oranlarda uygulanacağına veya maaştan ne kadar kesinti yapılacağına dair bir bilgi bulunmamaktadır. Madde 126, sadece disiplin cezalarını vermeye yetkili makamları, kurulların yetki sınırlarını ve karar sürelerini düzenlemektedir; cezaların içerik ve oranlarına bu maddede değinilmemiştir. [DMK m.126]",
+    "gold_doc_ids": [
+      "DMK_m126"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "126"
+      ]
+    ],
+    "difficulty": "no_answer",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Kanun metninde bulunmayan detaylı kesinti oranları"
+  },
+  {
+    "id": "q156",
+    "question": "Bir kamu kurumu tarafından 2 yıllığına İngiltere’ye görevlendirildim. Benimle aynı unvanda olan bir başka arkadaşım ise Mısır’a gönderildi. İkimiz de aynı kıdeme sahip olmamıza rağmen yurt dışı maaş katsayılarımızın neden farklı olduğunu merak ediyorum. Bu katsayılar belirlenirken sadece o ülkenin pahalı olup olmaması mı etkili oluyor, yoksa benim kişisel durumumun da bir önemi var mı?",
+    "answer": "Yurt dışı maaş katsayıları belirlenirken sadece ekonomik şartlar yeterli değildir. Devlet Memurları Kanunu'nun 157. maddesine göre; bu katsayılar saptanırken gidilen yabancı memleketin ekonomik durumu, para ve geçim şartlarının yanı sıra memurun temsil görevi ve aile yükümlülüğü (evli olması, çocuk sayısı vb.) de göz önünde tutulur. Dolayısıyla katsayınız hem görev yaptığınız ülkenin şartlarına hem de kişisel ailevi durumunuza göre şekillenir. [DMK m.157]",
+    "gold_doc_ids": [
+      "DMK_m157"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "157"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Yurtdışı maaş katsayısı belirleme unsurları"
+  },
+  {
+    "id": "q157",
+    "question": "Ben bir kamu kurumunda memur olarak çalışıyorum ve oğlum devlet yurdunun pansiyonunda memur indirimiyle kalıyor. Ancak oğlum bu yıl derslerinden dolayı sınıfta kaldı ve seneye aynı sınıfı tekrar okuyacak. Pansiyon yönetimi, \"Çocuğun sınıfta kaldığı için bu sene indirimden yararlanamazsın, tam ücret ödemen lazım\" diyor. Pansiyonun bu indirimi kesme yetkisi var mı, yoksa indirim mezun olana kadar devam eder mi?",
+    "answer": "Pansiyon yönetiminin indirimi kesme yetkisi vardır ve bu işlem kanuna uygundur. Devlet Memurları Kanunu'nun 200. maddesine göre; pansiyonlarda ücret indiriminden faydalanan memurların çocukları sınıfta kalırlarsa, aynı sınıf için ikinci sene bu indirim hakkından faydalanamazlar. [DMK m. 200]",
+    "gold_doc_ids": [
+      "DMK_m200"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "200"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Memur çocuğu pansiyon indirim hakkı şartı"
+  },
+  {
+    "id": "q158",
+    "question": "Yurt dışında sürekli bir görevde bulunan devlet memurunun, yanında götürdüğü ve bakmakla yükümlü olduğu babası orada vefat ederse, cenazenin Türkiye'ye getirilmesi için gereken nakil masraflarını devlet öder mi?",
+    "answer": "Evet, öder. Devlet Memurları Kanunu'nun 210. maddesine göre, yurt dışında sürekli görevde bulunan memurların bakmakla yükümlü oldukları eş, ana, baba ve çocuklarının cenazelerini yurda getirmek için yapılması zorunlu olan giderler kurumları tarafından karşılanır. [DMK m.210]",
+    "gold_doc_ids": [
+      "DMK_m210"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "210"
+      ]
+    ],
+    "difficulty": "edge",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Yurtdışı cenaze masrafı karşılama"
+  },
+  {
+    "id": "q159",
+    "question": "Bir askeri birlikte sivil memur olarak görev yapmaktayım. Birliğimizde yürütülen bir faaliyet nedeniyle 24 saat esasına göre çalışmamız istendi. Ben de 657 sayılı Kanun'un 101. maddesindeki çalışma usullerini gerekçe göstererek buna itiraz ettim ve ayrıca 178. maddeye dayanarak fazla çalışma ücreti talep ettim. Ancak amirim, Türk Silahlı Kuvvetleri bünyesinde olduğumuz için bu maddelerin bize uygulanmayacağını söyledi. Ben 657'ye tabi bir memur olduğuma göre, kanundaki bu haklarımdan mahrum bırakılmam yasal mı?",
+    "answer": "Evet, yasaldır. Devlet Memurları Kanunu'nun 232. maddesine göre; Türk Silahlı Kuvvetlerinde çalışan sivil memurlar hakkında bu kanunun çalışma saatlerini düzenleyen 99, 100 ve 101. maddeleri ile fazla çalışma ücretini düzenleyen 178. maddesi hükümleri uygulanmaz. Bu personelin çalışma saatleri ve usulleri TSK İç Hizmet Kanunu ve ilgili askeri mevzuat hükümlerine tabidir. [DMK m.232]",
+    "gold_doc_ids": [
+      "DMK_m232"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "232"
+      ]
+    ],
+    "difficulty": "multi_hop",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "TSK'daki sivil memurlar çalışma saatleri istisnası"
+  },
+  {
+    "id": "q160",
+    "question": "Yeni göreve başlayan bir devlet memuru olarak maaş bordromu incelerken \"kademe aylığı\" şeklinde bir ifade gördüm. Bu tutarın neye göre belirlendiğini ve tüm devlet memurları için sabit bir rakam olup olmadığını merak ediyorum. Kanuna göre bu aylık nasıl hesaplanır?",
+    "answer": "Kademe aylığı tüm memurlar için sabit bir tutar değildir. Devlet Memurları Kanunu'nun 149. maddesine göre kademe aylığı; 36. maddede belirtilen hizmet sınıflarına ait genel gösterge tablosundaki derecelere dahil her bir kademe için tespit edilen gösterge rakamına tekabül eden aylıktır. Yani bu rakam, memurun bulunduğu hizmet sınıfına, derece ve kademesine göre gösterge tablosu esas alınarak belirlenir. [DMK m.149]",
+    "gold_doc_ids": [
+      "DMK_m149"
+    ],
+    "gold_citations": [
+      [
+        "DMK",
+        "149"
+      ]
+    ],
+    "difficulty": "lookup",
+    "category": "idare",
+    "author": "sistem",
+    "notes": "Kademe aylığı hesaplanma usulü"
+  },
+  {
+    "id": "q161",
+    "question": "25 Haziran tarihinde kendisine bir idari işlem tebliğ edilen vatandaşın 60 günlük dava açma süresi bulunmaktadır. Yapılan hesaplamaya göre bu sürenin normal şartlarda 24 Ağustos tarihinde sona ermesi gerekmektedir. Ancak adli tatil (çalışmaya ara verme) döneminin 20 Temmuz'da başlayıp 31 Ağustos'ta sona erdiği göz önüne alındığında, vatandaşın dava açma süresinin son günü ne zamana kadar uzar ve bu uzamanın hukuki gerekçesi nedir?",
+    "answer": "İdari yargıda sürelerin hesaplanmasında tebliğ tarihini izleyen gün esas alınır ve tatil günleri de bu sürelere dahil edilir; ancak sürenin bittiği tarihin çalışmaya ara verme dönemine denk gelmesi özel bir kuralı beraberinde getirir. 2577 sayılı Kanun uyarınca dava açma sürelerinin bitmesi çalışmaya ara verme zamanına rastlarsa, bu süreler ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır. Bu senaryoda normal bitiş tarihi olan 24 Ağustos adli tatil dönemi içerisinde yer aldığı için vatandaşın dava açma süresi, tatilin bittiği 31 Ağustos tarihini takip eden 1 Eylül gününden itibaren yedi gün daha eklenerek 8 Eylül mesai saati bitimine kadar uzamış olur. [IYUK m.8]",
+    "gold_doc_ids": [
+      "IYUK_m8"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "8"
+      ]
+    ],
+    "difficulty": "multi_hop",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Adli tatile denk gelen sürenin uzaması"
+  },
+  {
+    "id": "q162",
+    "question": "Devam eden bir iptal davasının duruşması sırasında davacı vekili, daha önce ulaşamadığı ancak davanın sonucunu doğrudan etkileyecek olan bir belgeyi mahkeme heyetine sunmuştur. Davalı idare temsilcisi de o sırada duruşma salonunda hazır bulunmaktadır. Mahkemenin bu yeni belgeyi inceleyip kabul etmesi durumunda, yargılamanın usulüne uygun devam edebilmesi için bu belgenin mutlaka davalı idareye resmi yolla tebliğ edilmesi ve yazılı cevap sürecinin beklenmesi zorunlu mudur?",
+    "answer": "İdari Yargılama Usulü Kanunu'nun 21. maddesi uyarınca, dilekçelerle birlikte verilmeyen belgelerin vaktinde sunulamadığına mahkemece ikna olunursa bu belgeler kabul edilerek diğer tarafa tebliğ edilir. Ancak kanun bu noktada yargılamayı hızlandıracak özel bir istisna tanımıştır; eğer belge duruşmada sunulursa ve karşı taraf bu belgeye hemen cevap verebileceğini beyan ederse veya cevap vermeye lüzum görmediğini açıkça belirtirse, belgenin ayrıca tebliğ edilmesine gerek kalmaz. Bu durumda mahkeme, tebligat için duruşmayı ertelemeden veya ek süre vermeden mevcut beyanlar doğrultusunda yargılamaya devam ederek dosyayı karara bağlayabilir. [İYUK m.21]",
+    "gold_doc_ids": [
+      "IYUK_m21"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "21"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Duruşma esnasında sunulan belgenin tebliği istisnası"
+  },
+  {
+    "id": "q163",
+    "question": "Bir tam yargı davasında mahkeme, davacının soyadını yanlış yazmış ve hükmedilen tazminat tutarında maddi bir hesap hatası yapmıştır. Davacı, davanın esasına itiraz etmeden sadece bu yazım ve hesap hatalarının düzeltilmesini isteyebilir mi ve bu süreç nasıl işler?",
+    "answer": "İdari Yargılama Usulü Kanunu uyarınca tarafların kimlik bilgilerindeki yanlışlıklar ile hüküm fıkrasındaki hesap hatalarının düzeltilmesi her zaman mahkemeden talep edilebilir. Mahkeme bu yanlışlıkların düzeltilmesine karar verirse, yeni bir karar oluşturulmasına gerek kalmaksızın yapılan düzeltme doğrudan mevcut ilamın altına yazılarak resmileştirilir. [IYUK m.30]",
+    "gold_doc_ids": [
+      "IYUK_m30"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "30"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "İlamlardaki maddi hataların düzeltilmesi süreci"
+  },
+  {
+    "id": "q164",
+    "question": "Birbirini doğrudan etkileyen ve aynı hukuki sebepten doğan iki ayrı iptal davasından biri Ankara İdare Mahkemesi'nde, diğeri ise İzmir İdare Mahkemesi'nde açılmıştır. Taraflardan birinin talebi üzerine bu davalar arasında \"bağlantı\" olduğu kararına varılırsa, dosyaların birleştirilerek incelenmesi için hangi merciye gönderilmesi gerekir?",
+    "answer": "İdari Yargılama Usulü Kanunu'nun 38. maddesi uyarınca, biri hakkında verilecek hüküm diğerini etkileyecek nitelikte olan davalar bağlantılı sayılır. Eğer bu bağlantılı davalar, Ankara ve İzmir örneğinde olduğu gibi farklı bölge idare mahkemelerinin yargı çevrelerindeki mahkemelerde bulunuyorsa, dosyaların incelenmek üzere Danıştay'a gönderilmesi kanuni bir zorunluluktur. [IYUK m.38]",
+    "gold_doc_ids": [
+      "IYUK_m38"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "38"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Bağlantılı davalarda dosya birleştirme ve merci"
+  },
+  {
+    "id": "q165",
+    "question": "Aynı bölge idare mahkemesinin yargı çevresi içerisinde yer alan iki farklı idare mahkemesinin de aynı davaya bakmak konusunda kendilerini yetkili görmeleri üzerine bir yetki uyuşmazlığı doğmuştur. Bu durumda yetkili mahkemenin belirlenmesi için dosya hangi mercie gönderilmelidir ve bu mercinin verdiği karara karşı itiraz yolu açık mıdır?",
+    "answer": "İdari Yargılama Usulü Kanunu uyarınca, iki mahkemenin de aynı davaya bakmaya yetkili olduklarına karar vermeleri halinde \"merci tayini\" yoluna gidilir; uyuşmazlık aynı yargı çevresindeki mahkemeler arasında çıktığı için dosya o bölgenin bölge idare mahkemesine gönderilir. Bölge idare mahkemesinin görevli ve yetkili mahkemeyi kararlaştırmak üzere verdiği bu kararlar kesin nitelikte olup, bu kararlara karşı herhangi bir üst mercie başvurulması mümkün değildir. [IYUK m.44]",
+    "gold_doc_ids": [
+      "IYUK_m44"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "44"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Merci tayini ve uyuşmazlık çözümü kararlarının kesinliği"
+  },
+  {
+    "id": "q166",
+    "question": "Danıştay bir bölge idare mahkemesinin kararını bozmuş, ancak bölge idare mahkemesi bu bozma kararına uymayarak eski kararında ısrar etmiştir. Bu ısrar kararı tekrar temyiz edilirse incelemeyi hangi merci yapar ve çıkan karara mahkemenin tekrar direnme hakkı var mıdır?",
+    "answer": "Bölge idare mahkemesinin bozma kararına uymayarak ısrar etmesi ve bu kararın temyiz edilmesi hâlinde, inceleme konusuna göre Danıştay İdari veya Vergi Dava Daireleri Kurulunca yapılır. İdari Yargılama Usulü Kanunu'nun 50. maddesi uyarınca, bu kurulların verdiği kararlara uyulması zorunlu olup mahkemenin bu aşamadan sonra tekrar direnme hakkı bulunmamaktadır; ayrıca temyiz incelemesi sonucu verilen kararlar dosyanın geldiği tarihten itibaren yedi gün içinde taraflara tebliğe çıkarılmalıdır. [IYUK m.50]",
+    "gold_doc_ids": [
+      "IYUK_m50"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "50"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Israr kararı, temyizi ve direnme yasağı"
+  },
+  {
+    "id": "q167",
+    "question": "Bir davacı, idare mahkemesinde açtığı davanın dilekçesinin karşı tarafa gönderilmesi için gereken tebligat ücretini \"yargılama sonunda haksız çıkan taraf nasılsa ödeyecek, şimdi ödemek istemiyorum\" diyerek yatırmamıştır. İdari yargı mercilerince yapılacak tebligatların usulü ve bu giderlerin karşılanma zamanı hakkında kanuni kural nedir?",
+    "answer": "Danıştay ile bölge idare, idare ve vergi mahkemelerine ait her türlü tebligat işlemi Tebligat Kanunu hükümlerine göre gerçekleştirilir. İdari Yargılama Usulü Kanunu'nun 60. maddesi uyarınca, yapılacak bu tebliğlere ait ücretlerin ilgililer tarafından peşin olarak ödenmesi zorunludur. Dolayısıyla, davanın başında veya ilgili işlem sırasında tebligat giderlerinin peşinen yatırılmaması durumunda tebligat işlemlerinin yapılması mümkün değildir. [IYUK m.60]",
+    "gold_doc_ids": [
+      "IYUK_m60"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "60"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Tebligat ücretlerinin peşin ödenme zorunluluğu"
+  },
+  {
+    "id": "q168",
+    "question": "Bir idare mahkemesinin yetkisizlik kararı vererek dosyayı yetkili gördüğü başka bir mahkemeye göndermesi üzerine, davacının bu yeni mahkemede davasına devam edebilmesi için kararın kendisine tebliğinden itibaren kaç günlük bir yasal süresi bulunmaktadır ve bu sürenin geçirilmesi davanın düşmesine mi sebep olur?",
+    "answer": "Paylaşılan kanun metni, görevsizlik veya yetkisizlik kararı neticesinde görevli ve yetkili kılınan mahkemeye başvurulması veya davanın yenilenmesi için taraflara tanınan somut bir yasal başvuru süresine (gün bazında) dair bilgi içermemektedir. İlgili madde yalnızca uyuşmazlıkların çözüm mercilerini, kararların kesinliğini ve yeniden dava açılması halinde harç alınmayacağını düzenlemektedir. [IYUK m.43]",
+    "gold_doc_ids": [
+      "IYUK_m43"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "43"
+      ]
+    ],
+    "difficulty": "no_answer",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Kaynak metinde olmayan süre bilgisi"
+  },
+  {
+    "id": "q169",
+    "question": "Bir Bölge İdare Mahkemesi (BİM) tarafından verilen karar, Danıştay ilgili dairesince bozulmuştur. Ancak BİM, Danıştay’ın bozma gerekçelerini yerinde bulmayarak kendi kararında ısrar etmiştir. Taraflar bu \"ısrar kararını\" tekrar temyiz ettiğinde dosyayı hangi merci inceler, bu mercinin kararına mahkemenin tekrar direnme hakkı var mıdır ve son aşamada verilen kararın taraflara tebliğ süreci nasıl işler?",
+    "answer": "İdari Yargılama Usulü Kanunu'nun 50. maddesi uyarınca, Bölge İdare Mahkemesinin bozmaya uymayarak kararında ısrar etmesi ve bu kararın temyiz edilmesi halinde, talep konusuna göre Danıştay İdari veya Vergi Dava Daireleri Kurulunca incelenerek karara bağlanır. Bu kurulların verdiği kararlara mahkemece uyulması kanunen zorunlu olup, bu aşamadan sonra mahkemenin kararda tekrar ısrar etme veya direnme yetkisi bulunmamaktadır. Ayrıca, temyiz incelemesi sonucunda verilen bu nihai kararlar, dosyanın mahkemeye geldiği tarihten itibaren yedi gün içinde taraflara tebliğe çıkarılmak zorundadır. [IYUK m.50]",
+    "gold_doc_ids": [
+      "IYUK_m50"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "50"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Israr kararı ve zorunlu uyma ilkesi (Tekrarlayan içerik)"
+  },
+  {
+    "id": "q170",
+    "question": "Kesinleşmiş bir dava hakkında \"yargılamanın yenilenmesi\" talebinde bulunan bir kişi, sürecin hızlanması için mahkemenin karşı tarafa tebligat yapmadan dosyayı incelemesini ve mutlaka duruşma açılmasını talep etmiştir. Mahkemenin, karşı tarafın beyanını almadan karar verme yetkisi var mıdır ve duruşma açılması konusunda davacının talebi bağlayıcı mıdır?",
+    "answer": "İdari Yargılama Usulü Kanunu'nun 55. maddesi uyarınca mahkeme, yargılamanın yenilenmesi istemlerini ancak karşı tarafın savunmasını aldıktan sonra inceleyebilir; dolayısıyla savunma alınmadan sürecin yürütülmesi mümkün değildir. Duruşma yapılması konusu ise davacının talebine bağlı olmayıp, tamamen görevli daire veya mahkemelerin takdirine bırakılmıştır. Eğer istem kanunda yazılı somut sebeplere dayanmıyorsa, mahkemece istemin reddine karar verilir ve bu süreçte Kanun'un diğer genel hükümleri uygulanmaya devam eder. [IYUK m.55]",
+    "gold_doc_ids": [
+      "IYUK_m55"
+    ],
+    "gold_citations": [
+      [
+        "IYUK",
+        "55"
+      ]
+    ],
+    "difficulty": "reasoning",
+    "category": "idari_yargi",
+    "author": "sistem",
+    "notes": "Yargılamanın yenilenmesi taleplerinin incelenme usulü"
+  }
+]

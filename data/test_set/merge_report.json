@@ -1,0 +1,244 @@
+{
+  "summary": {
+    "total_raw": 170,
+    "total_errors": 4,
+    "unique_by_id": 170,
+    "duplicate_ids": 0,
+    "duplicate_questions": 0,
+    "rows_with_missing_doc_ids": 22,
+    "splittable": 149,
+    "dev_size": 122,
+    "test_size": 27
+  },
+  "per_file": {
+    "dev_gokay.jsonl": {
+      "valid_rows": 40,
+      "errors": 4
+    },
+    "dev_hasan.jsonl": {
+      "valid_rows": 40,
+      "errors": 0
+    },
+    "dev_kayra.jsonl": {
+      "valid_rows": 30,
+      "errors": 0
+    },
+    "dev_omer.jsonl": {
+      "valid_rows": 60,
+      "errors": 0
+    }
+  },
+  "by_author": {
+    "omer": 60,
+    "gokay": 40,
+    "hasan": 40,
+    "kayra": 29,
+    "sistem": 1
+  },
+  "by_difficulty": {
+    "reasoning": 64,
+    "lookup": 55,
+    "edge": 32,
+    "multi_hop": 11,
+    "no_answer": 8
+  },
+  "by_category": {
+    "medeni": 20,
+    "ceza": 20,
+    "borçlar": 10,
+    "tüketici": 10,
+    "anayasa": 10,
+    "kişisel_veri": 10,
+    "vergi": 10,
+    "idare": 10,
+    "idari_yargi": 10,
+    "ticaret": 10,
+    "idari": 10,
+    "trafik": 10,
+    "sosyal güvenlik": 10,
+    "iş hukuku": 10,
+    "icra_iflas": 10
+  },
+  "errors": [
+    {
+      "source": "dev_gokay.jsonl",
+      "line": 1,
+      "type": "json_parse",
+      "content": "//Türk Medeni Kanunu",
+      "errs": [
+        "Expecting value: line 1 column 1 (char 0)"
+      ]
+    },
+    {
+      "source": "dev_gokay.jsonl",
+      "line": 14,
+      "type": "json_parse",
+      "content": "//Türk Borçlar Kanunu",
+      "errs": [
+        "Expecting value: line 1 column 1 (char 0)"
+      ]
+    },
+    {
+      "source": "dev_gokay.jsonl",
+      "line": 27,
+      "type": "json_parse",
+      "content": "//Hukuk Muhakemeleri Kanunu",
+      "errs": [
+        "Expecting value: line 1 column 1 (char 0)"
+      ]
+    },
+    {
+      "source": "dev_gokay.jsonl",
+      "line": 40,
+      "type": "json_parse",
+      "content": "//Tüketicinin Korunması Hakkında Kanun",
+      "errs": [
+        "Expecting value: line 1 column 1 (char 0)"
+      ]
+    }
+  ],
+  "duplicate_id_samples": [],
+  "missing_doc_samples": [
+    {
+      "id": "q077",
+      "missing": [
+        "TKHK_m9A"
+      ],
+      "source": "dev_gokay.jsonl"
+    },
+    {
+      "id": "q090",
+      "missing": [
+        "TTK_m5A"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q111",
+      "missing": [
+        "SSGSSK_m8"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q112",
+      "missing": [
+        "SSGSSK_m13"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q113",
+      "missing": [
+        "SSGSSK_m60"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q114",
+      "missing": [
+        "SSGSSK_m25"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q115",
+      "missing": [
+        "SSGSSK_m8"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q116",
+      "missing": [
+        "SSGSSK_m13"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q117",
+      "missing": [
+        "SSGSSK_m60"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q118",
+      "missing": [
+        "SSGSSK_m13"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q119",
+      "missing": [
+        "SSGSSK_m67"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q120",
+      "missing": [
+        "SSGSSK_m8",
+        "SSGSSK_m13"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q121",
+      "missing": [
+        "IK_m63"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q122",
+      "missing": [
+        "IK_m15"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q123",
+      "missing": [
+        "IK_m37"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q124",
+      "missing": [
+        "IK_m4"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q125",
+      "missing": [
+        "IK_m34"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q126",
+      "missing": [
+        "IK_m58"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q127",
+      "missing": [
+        "IK_m92"
+      ],
+      "source": "dev_omer.jsonl"
+    },
+    {
+      "id": "q128",
+      "missing": [
+        "IK_m41"
+      ],
+      "source": "dev_omer.jsonl"
+    }
+  ]
+}

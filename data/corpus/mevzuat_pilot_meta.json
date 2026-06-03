@@ -1,0 +1,26 @@
+[
+  {
+    "short_name": "TCK",
+    "full_name": "Türk Ceza Kanunu",
+    "kanun_no": 5237,
+    "madde_count": 350,
+    "raw_text_length": 279067,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TMK",
+    "full_name": "Türk Medeni Kanunu",
+    "kanun_no": 4721,
+    "madde_count": 1032,
+    "raw_text_length": 383356,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "IsK",
+    "full_name": "İş Kanunu",
+    "kanun_no": 4857,
+    "madde_count": 141,
+    "raw_text_length": 140852,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+  }
+]

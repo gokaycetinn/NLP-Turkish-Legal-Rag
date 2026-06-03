@@ -1,0 +1,130 @@
+[
+  {
+    "short_name": "Anayasa",
+    "full_name": "Türkiye Cumhuriyeti Anayasası",
+    "kanun_no": 2709,
+    "madde_count": 205,
+    "raw_text_length": 193718,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TCK",
+    "full_name": "Türk Ceza Kanunu",
+    "kanun_no": 5237,
+    "madde_count": 350,
+    "raw_text_length": 279067,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "CMK",
+    "full_name": "Ceza Muhakemesi Kanunu",
+    "kanun_no": 5271,
+    "madde_count": 363,
+    "raw_text_length": 338881,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TMK",
+    "full_name": "Türk Medeni Kanunu",
+    "kanun_no": 4721,
+    "madde_count": 1032,
+    "raw_text_length": 383356,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TBK",
+    "full_name": "Türk Borçlar Kanunu",
+    "kanun_no": 6098,
+    "madde_count": 652,
+    "raw_text_length": 287302,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TTK",
+    "full_name": "Türk Ticaret Kanunu",
+    "kanun_no": 6102,
+    "madde_count": 1560,
+    "raw_text_length": 960576,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "HMK",
+    "full_name": "Hukuk Muhakemeleri Kanunu",
+    "kanun_no": 6100,
+    "madde_count": 465,
+    "raw_text_length": 273563,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "IsK",
+    "full_name": "İş Kanunu",
+    "kanun_no": 4857,
+    "madde_count": 141,
+    "raw_text_length": 140852,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "KVKK",
+    "full_name": "Kişisel Verilerin Korunması Kanunu",
+    "kanun_no": 6698,
+    "madde_count": 36,
+    "raw_text_length": 48594,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "VUK",
+    "full_name": "Vergi Usul Kanunu",
+    "kanun_no": 213,
+    "madde_count": 498,
+    "raw_text_length": 490560,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=213&MevzuatTur=1&MevzuatTertip=4"
+  },
+  {
+    "short_name": "IIK",
+    "full_name": "İcra ve İflas Kanunu",
+    "kanun_no": 2004,
+    "madde_count": 500,
+    "raw_text_length": 416167,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3"
+  },
+  {
+    "short_name": "IYUK",
+    "full_name": "İdari Yargılama Usulü Kanunu",
+    "kanun_no": 2577,
+    "madde_count": 86,
+    "raw_text_length": 94838,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2577&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "TKHK",
+    "full_name": "Tüketicinin Korunması Hakkında Kanun",
+    "kanun_no": 6502,
+    "madde_count": 95,
+    "raw_text_length": 136919,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "SSGSS",
+    "full_name": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+    "kanun_no": 5510,
+    "madde_count": 337,
+    "raw_text_length": 721814,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "DMK",
+    "full_name": "Devlet Memurları Kanunu",
+    "kanun_no": 657,
+    "madde_count": 439,
+    "raw_text_length": 506978,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=657&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "short_name": "KTK",
+    "full_name": "Karayolları Trafik Kanunu",
+    "kanun_no": 2918,
+    "madde_count": 200,
+    "raw_text_length": 274032,
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
+  }
+]

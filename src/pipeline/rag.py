@@ -201,14 +201,19 @@ class RAGPipeline:
               top_k: int = 5, retrieval_mode: str = "hybrid",
               adapter_path: Optional[str] = None,
               reranker: Optional[object] = None,
-              candidate_k: int = 50) -> "RAGPipeline":
+              candidate_k: int = 50,
+              quantize_4bit: bool = True) -> "RAGPipeline":
         retriever = Retriever.load(index_dir, embed_model=embed_model,
                                    load_dense=(retrieval_mode != "bm25"),
                                    load_bm25=(retrieval_mode != "dense"))
         if llm_backend == "gemini":
             llm = GeminiLLM(llm_model)
         elif llm_backend == "hf":
-            llm = HuggingFaceLLM(llm_model, adapter_path=adapter_path)
+            llm = HuggingFaceLLM(
+                llm_model,
+                quantize_4bit=quantize_4bit,
+                adapter_path=adapter_path,
+            )
         elif llm_backend == "dummy":
             llm = DummyLLM()
         else:

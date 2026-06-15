@@ -110,37 +110,8 @@ class Reranker:
         if not passages:
             return np.array([], dtype=np.float32)
         pairs = [[query, p] for p in passages]
-        if self.flavor == "v2_lora":
-            return self._score_lora_pairs(pairs, batch_size)
         scores = self._ce.predict(pairs, batch_size=batch_size, show_progress_bar=False)
         return np.asarray(scores, dtype=np.float32)
-
-    def _score_lora_pairs(self, pairs: list[list[str]], batch_size: int) -> np.ndarray:
-        """Run PEFT-wrapped rerankers without CrossEncoder's version-specific forward path."""
-        import torch
-
-        model = self._ce.model
-        tokenizer = self._ce.tokenizer
-        device = next(model.parameters()).device
-        max_length = getattr(self._ce, "max_length", 512)
-        chunks: list[np.ndarray] = []
-
-        for start in range(0, len(pairs), batch_size):
-            batch = pairs[start:start + batch_size]
-            features = tokenizer(
-                [pair[0] for pair in batch],
-                [pair[1] for pair in batch],
-                padding=True,
-                truncation=True,
-                max_length=max_length,
-                return_tensors="pt",
-            )
-            features = {name: value.to(device) for name, value in features.items()}
-            with torch.inference_mode():
-                logits = model(**features, return_dict=True).logits
-            chunks.append(logits.reshape(-1).float().cpu().numpy())
-
-        return np.concatenate(chunks).astype(np.float32, copy=False)
 
     def rerank(self, query: str, hits: list[Hit], top_k: int = 10,
                batch_size: int = 32) -> list[Hit]:
